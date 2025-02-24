@@ -1,2 +1,2 @@
 Здесь будут отобржены все изображения:
-![Альтернативное изображение](https://github.com/{имя пользователя}/{репозиторий}/raw/{ветка}/{путь}/image.png)
+![logo](https://github.com/techsupport-rostov/ReinaTour/blob/main/logo.jpg)
